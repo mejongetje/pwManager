@@ -2,7 +2,7 @@
 
 pwManager is a convenient command line password manager. 
 
-A list with services and passwords is kept encrypted on the local system 
+A list with services, usernames and passwords is kept encrypted on your local system 
 and can only be accessed through the program.
 
 SETUP
