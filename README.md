@@ -1,6 +1,7 @@
 # pwManager
 
-pwManager is a convenient command line password manager
+pwManager is a convenient command line password manager. 
+A list with services and passwords is kept encrypted on the local system and can only be accessed through the program.
 
 SETUP
 
@@ -13,7 +14,7 @@ START PROGRAM
 
 Run pwmanager.py. You'll be asked for your manager password. 
 You'll see a menu with 5 options:
-  1. Show List
+  1. Show List <-- shows list with all passwords and services
   2. Search List
   3. Add Service
   4. Update Service
