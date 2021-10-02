@@ -1,0 +1,4 @@
+*.txt
+*.ipynb
+key.key
+/__pycache__
