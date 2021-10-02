@@ -16,11 +16,11 @@ START PROGRAM
 
 Run pwmanager.py. You'll be asked for your manager password. 
 You'll see a menu with 5 options:
-  1. Show List <-- shows list with all passwords and services
-  2. Search List
-  3. Add Service
-  4. Update Service
-  5. Close
+  1. Show List <-- shows the decrypted list with all services and passwords
+  2. Search List <-- search for a service in your list
+  3. Add Service <-- add a service and password to your list
+  4. Update Service <-- update an existing service in your list
+  5. Close <-- will encrypt the list and close the program
   
   
 TROUBLE SHOOTING
