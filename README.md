@@ -9,6 +9,8 @@ Run setup.py once. You'll be asked for a manager password and for a name for you
 
 START PROGRAM
 
+![Alt text](https://github.com/mejongetje/pwManager/blob/main/menu.png "Optional title")
+
 Run pwmanager.py. You'll be asked for your manager password. 
 You'll see a menu with 5 options:
   1. Show List
