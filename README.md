@@ -6,6 +6,7 @@ SETUP
 
 Run setup.py once. You'll be asked for a manager password and for a name for your list.
 
+
 START PROGRAM
 
 Run pwmanager.py. You'll be asked for your manager password. 
@@ -15,6 +16,7 @@ You'll see a menu with 5 options:
   3. Add Service
   4. Update Service
   5. Close
+  
   
 TROUBLE SHOOTING
 
